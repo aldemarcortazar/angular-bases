@@ -15,6 +15,8 @@ import { CommonModule } from '@angular/common';
     ],
     imports: [
         CommonModule,
+        //'webForms'
+        // viewState
     ]
 })
 export class HeroesModule {}
